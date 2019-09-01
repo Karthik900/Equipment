@@ -24,7 +24,7 @@ This Project requires Django, Django REST Framework serving as the Backend Techn
 
 > Watching for file changes with StatReloader
 Performing system checks...
-
+> 
 System check identified no issues (0 silenced).
 September 02, 2019 - 00:09:17
 Django version 2.2.4, using settings 'equipment.settings'
