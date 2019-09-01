@@ -1,2 +1,3 @@
-# equipment
- ff
+# Equipment Database Web Application
+
+##Installation
