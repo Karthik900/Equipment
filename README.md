@@ -4,8 +4,10 @@
 
 This Project requires Django, Django REST Framework serving as the Backend Technologies.
 
-> Note: The instruction given below are given with an intention that the concerned person already has python3+ installed and added to path in their machine.
+> Note: The instructions given below are supposed to be followed after the concerned person already has python3+ as well as pip3 installed and added to path in their machine.
 
 ### Django
 
-1. Open your terminal and run 
+1. Open your terminal and run ```pip install Django
+                                 pip install markdown
+                                 pip install django-filter```
