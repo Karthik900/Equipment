@@ -22,21 +22,14 @@ This Project requires Django, Django REST Framework serving as the Backend Techn
 2. Run ```python manage.py runserver```
 3. You should be able to see the default local server on which the web app is functioning i.e something like this
 
-> Watching for file changes with StatReloader
-
-> Performing system checks...
-
-> System check identified no issues (0 silenced).
-
-> September 02, 2019 - 00:09:17
-
-> Django version 2.2.4, using settings 'equipment.settings'
-
-> Starting development server at http://127.0.0.1:8000/
-
-> Quit the server with CTRL-BREAK.
-
-> _
+> Watching for file changes with StatReloader  
+> Performing system checks...  
+> System check identified no issues (0 silenced).  
+> September 02, 2019 - 00:09:17  
+> Django version 2.2.4, using settings 'equipment.settings'  
+> Starting development server at http://127.0.0.1:8000/  
+> Quit the server with CTRL-BREAK.  
+> _  
 
 
                                  
