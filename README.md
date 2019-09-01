@@ -14,8 +14,6 @@ This Project requires Django, Django REST Framework serving as the Backend Techn
    * ```pip install djangorestframework``` for the rest framework.
    * ```pip install markdown``` for markdown support for the browsable API.
    * ```pip install django-filter``` for filtering support.
-3. You can check out this [site1][1] and [site2][2] for reference purposes.
-   [1] : https://www.djangoproject.com/
-   [2] : https://www.django-rest-framework.org/
+3. You can check out this [Django](https://www.djangoproject.com/) and [Django REST Framework](https://www.django-rest-framework.org/) for reference purposes.
                                  
                                  
